@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nimura255
+- 👋 Hi, I’m @nimura255, a professional formoshlyoper
 
 <!---
 nimura255/nimura255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
